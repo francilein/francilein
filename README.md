@@ -3,7 +3,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Abril+Fatface&size=30&duration=3000&pause=400&color=DC82F7&center=true&vCenter=true&width=600&height=180&lines=Mediainformatics+Student;at+HTWK+Leipzig;hooked+on+web+development;I+love+gaming;checkout+my+portfolio" alt="Typing SVG" /></a>
 </div>
-
+<img align="right" width="150" alt="Code Cat" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGczcTc1b3F2NHNnYWoya21zdmMxZHN1aDgwcjJycDNlM2FmOG9tdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FxJBpNTBgWdJCXKD4/giphy.gif" ></p>
 <h3>Technologie</h3>
 <p align="left">
   
