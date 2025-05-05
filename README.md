@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Franca !</h1>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Abril+Fatface&duration=3000&pause=400&color=DC82F7&center=true&vCenter=true&width=900&height=180&lines=Mediainformatics+Student;at+HTWK+Leipzig;hooked+on+web+development;I+love+gaming;checkout+my+portfolio" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Abril+Fatface&size=30&duration=3000&pause=400&color=DC82F7&center=true&vCenter=true&width=600&height=180&lines=Mediainformatics+Student;at+HTWK+Leipzig;hooked+on+web+development;I+love+gaming;checkout+my+portfolio" alt="Typing SVG" /></a>
 </div>
 
 <h3>Technologie</h3>
