@@ -5,10 +5,10 @@
 </div>
 <img align="right" width="150" alt="Code Cat" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGczcTc1b3F2NHNnYWoya21zdmMxZHN1aDgwcjJycDNlM2FmOG9tdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6FxJBpNTBgWdJCXKD4/giphy.gif" ></p>
 
-<h3>Technologie</h3>
+<h3>My Tools</h3>
 <p align="left">
   <a href="https://github.com/francilein">
-    <img src="https://skillicons.dev/icons?i=git,cpp,java,html,css,js,bootstrap,figma,docker,haskell,sqlite&perline=9" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,java,html,css,js,bootstrap,figma,docker,haskell&perline=5" />
   </a>
 </p>
 
